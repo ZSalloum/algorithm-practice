@@ -39,6 +39,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Strings\SmallestWindowContainingAllCharsOfItself.cs" />
+    <Compile Include="Strings\SmallestWindowContainingAllCharsOfString.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Strings\" />
